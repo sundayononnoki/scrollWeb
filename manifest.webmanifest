@@ -1,0 +1,11 @@
+{
+  "name": "scrollWeb",
+  "short_name": "scrollWeb",
+  "description": "Fullscreen looping text display",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "background_color": "#101010",
+  "theme_color": "#101010",
+  "orientation": "landscape"
+}
